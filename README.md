@@ -1,2 +1,2 @@
-# 318285553_ProyectoFinal_Gpo05
-318285553_ProyectoFinal_Gpo05
+#ProyectoFinal_Computacion_Grafica
+ProyectoFinal
